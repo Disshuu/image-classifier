@@ -1,0 +1,8 @@
+image-classifier/
+├── public/
+│   ├── index.html
+│   ├── styles.css
+│   ├── script.js
+├── package.json
+├── vite.config.js
+├── README.md
